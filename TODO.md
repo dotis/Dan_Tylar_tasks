@@ -6,4 +6,4 @@
 - [ ] Climate dash - add products
 - [ ] Heat maps and time series for PR and the VI
 - [ ] FK Water quality tool
-- [ ] Get FWC dash up and running
+- [X] Get FWC dash up and running
