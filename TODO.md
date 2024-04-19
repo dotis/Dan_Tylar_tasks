@@ -2,8 +2,9 @@
 
 - [ ] Add 2nd depth for temperature buoy on FGBNMS dash
 - [ ] NERRS data on SEUS dash (next mtg. 2/26 - should have some NERRS data up on dash by then)
+- [ ] Weird display issue with polar (0-360 degrees) data in grafana (SEUS dash)
 - [X] Get manglilloo up and install MATLAB
-- [ ] Climate dash - add products
+- [ ] Climate dash - add products and projections for other sanctuaries (workshop in September)
 - [ ] Heat maps and time series for PR and the VI (ongoing - perhaps we can use the Thurs. 11am meeting time to look at this w/Digna)
 - [ ] FK Water quality tool (FCRCT meeting on 3/19 - We need to have an updated tool by then)
 - [X] Get FWC dash up and running
