@@ -3,7 +3,7 @@
 - [ ] Add 2nd depth for temperature buoy on FGBNMS dash
 - [ ] NERRS data on SEUS dash (next mtg. 2/26 - should have some NERRS data up on dash by then)
 - [ ] Weird display issue with polar (0-360 degrees) data in grafana (SEUS dash)
-- [ ] Look at OBIS data in Mid Atl. Bight region (can we add to dash?)
+- [ ] Look at OBIS data in Mid Atl. Bight region - Tylar (can we add to dash?)
 - [ ] Add sand layers and temp. logger data to SEUS dash (Dan), don't add logger locations to map - use station names
 - [X] Get manglilloo up and install MATLAB (need to check errors - Doug)
 - [ ] Climate dash - add products and projections for other sanctuaries (workshop in September)
