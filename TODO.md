@@ -8,7 +8,7 @@
 - [X] Get manglilloo up and install MATLAB (need to check errors - Doug)
 - [ ] Climate dash - add products and projections for other sanctuaries (workshop in September)
 - [ ] Heat maps and time series for PR and the VI (ongoing - perhaps we can use the Thurs. 11am meeting time to look at this w/Digna)
-- [ ] FK Water quality tool (FCRCT meeting on 3/19 - We need to have an updated tool by then)
+- [X] FK Water quality tool (FCRCT meeting on 3/19 - We need to have an updated tool by then)
 - [X] Get FWC dash up and running
 
 For now, priorities are #2 (NERRS data) and #6 (FKWQ tool)
