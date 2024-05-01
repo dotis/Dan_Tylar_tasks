@@ -11,7 +11,6 @@
 - [X] FK Water quality tool (FCRCT meeting on 3/19 - We need to have an updated tool by then)
 - [X] Get FWC dash up and running
 
-For now, priorities are #2 (NERRS data) and #6 (FKWQ tool)
+For now, priorities are #2 (NERRS data)
 
-Manglilloo is up. MATLAB install remains
 
